@@ -15,8 +15,8 @@
 ---
 
 ## 🚀 Overview
-![Server Preview](Preview1.png)
-![Client Preview](Preview2.png)
+![Basic Preview](Preview2.png)
+![Network Preview](Preview1.png)
 
 Delphi_AudioLink provides two powerful, professional-grade audio components built on Windows Audio Session API (WASAPI) with automatic format conversion, intelligent volume control, and network-ready TBytes streaming. Perfect for VoIP applications, audio streaming, recording software, and real-time audio processing.
 
