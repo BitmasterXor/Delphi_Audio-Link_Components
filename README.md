@@ -425,8 +425,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Example Projects
 - [Simple Voice Chat](examples/VoiceChat) - Basic peer-to-peer voice communication
 - [Audio Recorder](examples/AudioRecorder) - Professional audio recording application
-- [Network Audio Stream](examples/NetworkStream) - Client-server audio streaming
-- [Real-time Effects](examples/RealtimeEffects) - Audio processing with effects
 
 ---
 
