@@ -396,8 +396,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Delphi Component Development Guide](https://docwiki.embarcadero.com/RADStudio/en/Creating_Components)
 
 ### Example Projects
-- [Simple Voice Chat](examples/VoiceChat) - Basic peer-to-peer voice communication
-- [Audio Recorder](examples/AudioRecorder) - Professional audio recording application
+- Basic peer-to-peer voice communication (supports TCP and UDP) 
+- Professional audio recording / playback application
 
 ---
 
