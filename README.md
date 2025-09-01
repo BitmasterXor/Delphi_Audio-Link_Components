@@ -316,15 +316,6 @@ end;
 
 ## 📈 Performance Specifications
 
-| Operation | Typical Latency | Memory Usage | CPU Usage |
-|-----------|----------------|--------------|-----------|
-| **Microphone Capture** | <10ms | 2-4MB | <2% |
-| **Speaker Playback** | <20ms | 3-6MB | <3% |
-| **Format Conversion** | <1ms | Minimal | <1% |
-| **Volume Processing** | <0.5ms | None | <0.5% |
-
-*Tested on: Intel i7-10700K, 32GB RAM, Windows 10 21H2*
-
 ### Supported Audio Formats
 - **Sample Rates:** 8kHz - 192kHz (device dependent)
 - **Channels:** 1 (Mono) - 8 (7.1 Surround) (device dependent)  
