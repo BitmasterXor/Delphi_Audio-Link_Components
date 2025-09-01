@@ -84,25 +84,6 @@ graph TD
 - **Windows Vista+** (WASAPI requirement)
 - **NetCom7 components** (optional) - For network streaming examples
 
-### Quick Setup
-1. **Clone Repository**
-   ```bash
-   git clone https://github.com/BitmasterXor/Delphi_AudioLink.git
-   cd Delphi_AudioLink
-   ```
-
-2. **Install Package**
-   ```
-   Open AudioComponents.dpk in Delphi IDE
-   Right-click → Install
-   Components appear in "Audio" tab
-   ```
-
-3. **Add to Project**
-   ```pascal
-   uses MicInput, SpeakerOutput;
-   ```
-
 ---
 
 ## 🚀 Usage Examples
