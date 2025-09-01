@@ -420,7 +420,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Documentation
 - [Windows Audio Session API (WASAPI)](https://docs.microsoft.com/en-us/windows/win32/coreaudio/wasapi)
 - [Delphi Component Development Guide](https://docwiki.embarcadero.com/RADStudio/en/Creating_Components)
-- [Audio Programming Best Practices](https://github.com/BitmasterXor/Delphi_AudioLink/wiki)
 
 ### Example Projects
 - [Simple Voice Chat](examples/VoiceChat) - Basic peer-to-peer voice communication
