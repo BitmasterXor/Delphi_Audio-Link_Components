@@ -81,7 +81,7 @@ graph TD
 
 ### Prerequisites
 - **Delphi XE2 or later**
-- **Windows Vista+** (WASAPI requirement)
+- **Windows Vista+** (WASAPI requirement Vista SP1 I belive shipped with it)
 - **NetCom7 components** (optional) - For network streaming examples
 
 ---
